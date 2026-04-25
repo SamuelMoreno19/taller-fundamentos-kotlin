@@ -15,7 +15,7 @@ fun ejecutarBloque3() {
 
     println("=== 12do ejercicio ===")
 
-    // Ejercicio 12 - El if como Expresión
+    // Ejercicio 12 - El if como expresión
     val nota = 4.2
     val resultado = if (nota >= 3.0) "Aprobado" else "Reprobado"
     println("12. Resultado académico: $resultado")
@@ -45,7 +45,7 @@ fun ejecutarBloque3() {
 
     println("=== 15to ejercicio ===")
 
-    // Ejercicio 15 - Verificación de Tipo
+    // Ejercicio 15 - La verificación de tipo
     val variableAnonima: Any = "Soy un String"
     print("15. Tipo de dato: ")
     when (variableAnonima) {

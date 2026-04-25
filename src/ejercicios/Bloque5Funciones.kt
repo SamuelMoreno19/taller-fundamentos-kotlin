@@ -15,7 +15,7 @@ fun ejecutarBloque5() {
 
     println("=== 23ro ejercicio ===")
 
-    // Ejercicio 23 - El parámetro por Defecto
+    // Ejercicio 23 - El parámetro por defecto
     println("23. Creando rectángulo con default:")
     crearRectangulo(5)
 

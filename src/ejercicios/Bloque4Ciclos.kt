@@ -5,7 +5,7 @@ fun ejecutarBloque4() {
 
     println("=== 16to ejercicio ===")
 
-    // Ejercicio 16 - El conteo Simple
+    // Ejercicio 16 - El conteo simple
     print("16. For 1-10: ")
     for (i in 1..10) {
         print("$i ")
@@ -14,7 +14,7 @@ fun ejecutarBloque4() {
 
     println("=== 17mo ejercicio ===")
 
-    // Ejercicio 17 - La cuenta Regresiva
+    // Ejercicio 17 - La cuenta regresiva
     print("17. DownTo 10-1: ")
     for (i in 10 downTo 1) {
         print("$i ")

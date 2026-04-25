@@ -36,7 +36,7 @@ fun ejecutarBloque2() {
 
     println("=== 10mo ejercicio ===")
 
-    // Ejercicio 10 - La aserción No Nula
+    // Ejercicio 10 - La aserción No nula
 
     val valorNoNulo: String? = "Kotlin"
     println("10. Longitud con !!: ${valorNoNulo!!.length}")
