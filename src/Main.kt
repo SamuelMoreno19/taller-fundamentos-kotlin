@@ -8,5 +8,6 @@ fun main() {
     ejecutarBloque1()
     ejecutarBloque2()
     ejecutarBloque3()
+    ejecutarBloque4()
     println("FIN DEL TALLER")
 }
